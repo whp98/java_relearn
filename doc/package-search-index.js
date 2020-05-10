@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"xyz.intellij.java.relearn.basic.ch1"},{"l":"xyz.intellij.java.relearn.basic.ch2"},{"l":"所有程序包","url":"allpackages-index.html"}]
