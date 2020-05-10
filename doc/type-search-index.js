@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"xyz.intellij.java.relearn.basic.ch2","l":"Documentation1"},{"p":"xyz.intellij.java.relearn.basic.ch1","l":"helloworld"},{"l":"所有类","url":"allclasses-index.html"}]
