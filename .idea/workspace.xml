@@ -4,74 +4,48 @@
     <option name="SCOPE_TYPE" value="8" />
     <option name="CUSTOM_SCOPE_NAME" value="Module 'java_re_learn'" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b9dadb0-9395-48bd-b240-4e82f3a2a8cd" name="Default Changelist" comment="一个测试随机数的小代码和之前的代码">
-      <change afterPath="$PROJECT_DIR$/doc/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/overview-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/external/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/type-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xyz/intellij/java/relearn/basic/ch1/helloworld.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xyz/intellij/java/relearn/basic/ch1/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xyz/intellij/java/relearn/basic/ch1/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xyz/intellij/java/relearn/basic/ch2/Documentation1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xyz/intellij/java/relearn/basic/ch2/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/xyz/intellij/java/relearn/basic/ch2/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch2/Documentation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch3/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch4/RandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch4/TestWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch5/TerminationCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch5/TestFinalize.java" afterDir="false" />
+    <list default="true" id="5b9dadb0-9395-48bd-b240-4e82f3a2a8cd" name="Default Changelist" comment="忽略文件+内存回收">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20190722.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/smalltool/VmessParser.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/smalltool/VmessPerser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/smalltool/tls.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/smalltool/ws.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_re_learn/xyz/intellij/java/relearn/basic/ch1/helloworld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_re_learn/xyz/intellij/java/relearn/basic/ch1/helloworld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch1/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch1/helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_re_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_re_learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch1/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch1/helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch2/Documentation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch2/Documentation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch3/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch3/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch4/RandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch4/RandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch4/TestWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch4/TestWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch5/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch5/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch5/TerminationCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch5/TerminationCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/java/relearn/basic/ch5/TestFinalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/intellij/java/relearn/basic/ch5/TestFinalize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +62,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:whp98/java_relearn.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1RHsgtHEJwDlXUG5MZN3fnrYSw1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -96,32 +77,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../SOFTware/idea_ansdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="应用程序.TestFinalize">
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.relearn.basic.ch3.Operator" />
-      <module name="java_re_learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xyz.intellij.java.relearn.basic.ch3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.VmessPerser">
     <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.relearn.basic.ch4.RandomTest" />
       <module name="java_re_learn" />
@@ -174,8 +147,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VmessPerser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.relearn.basic.smalltool.VmessPerser" />
+      <module name="java_re_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.relearn.basic.smalltool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.VmessPerser" />
         <item itemvalue="应用程序.TestFinalize" />
       </list>
     </recent_temporary>
@@ -204,8 +191,25 @@
       <workItem from="1585704239134" duration="3514000" />
       <workItem from="1585991926406" duration="18000" />
       <workItem from="1587424565209" duration="248000" />
-      <workItem from="1589107046643" duration="1164000" />
+      <workItem from="1589107046643" duration="2447000" />
+      <workItem from="1589116866332" duration="654000" />
+      <workItem from="1589637214461" duration="241000" />
+      <workItem from="1589638033931" duration="39000" />
+      <workItem from="1589661820496" duration="11619000" />
+      <workItem from="1589739261275" duration="1202000" />
+      <workItem from="1589740565813" duration="73000" />
+      <workItem from="1589796898843" duration="2778000" />
+      <workItem from="1589808623825" duration="617000" />
+      <workItem from="1589812627648" duration="680000" />
     </task>
+    <task id="LOCAL-00001" summary="忽略文件+内存回收">
+      <created>1589108621439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589108621439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,65 +230,95 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="一个测试随机数的小代码和之前的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="一个测试随机数的小代码和之前的代码" />
+    <MESSAGE value="忽略文件+内存回收" />
+    <option name="LAST_COMMIT_MESSAGE" value="忽略文件+内存回收" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="58" key="#Plugins" timestamp="1589740635482">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="58" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1589740635482" />
+    <state x="374" y="44" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589662315465">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="374" y="44" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1589662315465" />
     <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583129661917">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1583129661917" />
+    <state x="490" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589739277227">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="490" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1589739277227" />
+    <state x="499" y="163" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589664468923">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589664468923" />
+    <state x="249" y="0" key="#项目结构" timestamp="1589667127067">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#项目结构/0.0.1536.834@0.0.1536.834" timestamp="1589667127067" />
     <state x="525" y="171" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584540515793">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="525" y="171" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1584540515793" />
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1585704600375">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1589108620297">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1585704600375" />
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589108620297" />
     <state x="563" y="194" key="FileChooserDialogImpl" timestamp="1584786047401">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="563" y="194" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584786047401" />
-    <state width="744" height="390" key="GridCell.Tab.0.bottom" timestamp="1589107787997">
+    <state width="1493" height="434" key="GridCell.Tab.0.bottom" timestamp="1589817531946">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="744" height="390" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589107787997" />
+    <state width="1493" height="434" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589817531946" />
     <state width="738" height="120" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585054792841" />
-    <state width="744" height="390" key="GridCell.Tab.0.center" timestamp="1589107787997">
+    <state width="1493" height="434" key="GridCell.Tab.0.center" timestamp="1589817531946">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="744" height="390" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589107787997" />
+    <state width="1493" height="434" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589817531946" />
     <state width="738" height="120" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585054792840" />
-    <state width="744" height="390" key="GridCell.Tab.0.left" timestamp="1589107787997">
+    <state width="1493" height="434" key="GridCell.Tab.0.left" timestamp="1589817531946">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="744" height="390" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589107787997" />
+    <state width="1493" height="434" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589817531946" />
     <state width="738" height="120" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585054792840" />
-    <state width="744" height="390" key="GridCell.Tab.0.right" timestamp="1589107787997">
+    <state width="1493" height="434" key="GridCell.Tab.0.right" timestamp="1589817531946">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="744" height="390" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589107787997" />
+    <state width="1493" height="434" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589817531946" />
     <state width="738" height="120" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585054792841" />
-    <state width="739" height="207" key="GridCell.Tab.1.bottom" timestamp="1584812897413">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1589697646909">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589697646909" />
     <state width="739" height="207" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584812897413" />
-    <state width="739" height="207" key="GridCell.Tab.1.center" timestamp="1584812897412">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1589697646909">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589697646909" />
     <state width="739" height="207" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1584812897412" />
-    <state width="739" height="207" key="GridCell.Tab.1.left" timestamp="1584812897412">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1589697646909">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589697646909" />
     <state width="739" height="207" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1584812897412" />
-    <state width="739" height="207" key="GridCell.Tab.1.right" timestamp="1584812897412">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1589697646909">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589697646909" />
     <state width="739" height="207" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1584812897412" />
-    <state x="4" y="66" width="1456" height="798" key="SettingsEditor" timestamp="1587424809467">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="25" y="0" width="1456" height="798" key="SettingsEditor" timestamp="1589662177317">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="25" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589662177317" />
     <state x="4" y="66" width="1456" height="798" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587424809467" />
+    <state x="261" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589662176110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1589662176110" />
     <state x="322" y="92" key="new project wizard" timestamp="1587424616510">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -293,5 +327,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1584535369171" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1589670070740">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1589670070740" />
   </component>
 </project>
